@@ -1,5 +1,5 @@
 # Automobile-Data-Mining
-Based on the automobile data base: http://archive.ics.uci.edu/ml/datasets/Automobile 
+Based on the automobile data set: http://archive.ics.uci.edu/ml/datasets/Automobile 
 
 The project will be carried out in two steps:\
 &nbsp;&nbsp;&nbsp;**A**. Part1.pdf - In the first part the data is prepared and than analysed with classification and forecasting methods.\
